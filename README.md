@@ -13,7 +13,7 @@ A smart personal finance dashboard built with Python, Streamlit, Plotly, and sci
 ### Dashboard
 ![Dashboard](assets/dashboard.png)
 
-### Paymens Tab
+### Payments Tab
 ![Payments](assets/payments.png)
 
 ### Visuals through piechart
